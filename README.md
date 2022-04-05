@@ -1,5 +1,5 @@
 # IIM
-Works for IIM
+Works for Works for IIM Digital School 
 
 IIM_DesignPattern_Exam : 
 
