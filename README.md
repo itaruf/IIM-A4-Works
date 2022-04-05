@@ -9,8 +9,7 @@ UML - Interfaces - SOLID Principles - Namespaces - Libraries C# - Assembly Defin
 
 IIM_Algorithms_Exam : 
 
-Program different sorting algorithms (use cases on lists and linkedlists) in C#
-Convert a binary tree into an AVL in C#
+Program different sorting algorithms (use cases on lists and linkedlists) in C# - Convert a binary tree into an AVL in C#
 
 IIM_Gashamon : 
 
@@ -18,5 +17,4 @@ Turn-based fighting Pokémon-like game using SDL 2 in C++
 
 IIM_Prog3D_Exam : 
 
-3D Programmation in Unity
-Materials & Scripts - Rendering - Shaders - Mesh generations
+3D Programmation in Unity - Materials & Scripts - Rendering - Shaders - Mesh generations
